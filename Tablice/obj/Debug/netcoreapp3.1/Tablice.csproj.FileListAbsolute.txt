@@ -1,0 +1,13 @@
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.csproj.AssemblyReference.cache
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.AssemblyInfoInputs.cache
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.AssemblyInfo.cs
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.exe
+C:\Users\Gosia\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.deps.json
+C:\Users\Gosia\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.runtimeconfig.json
+C:\Users\Gosia\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.runtimeconfig.dev.json
+C:\Users\Gosia\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.dll
+C:\Users\Gosia\source\repos\Tablice\Tablice\bin\Debug\netcoreapp3.1\Tablice.pdb
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.dll
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.pdb
+C:\Users\Gosia\source\repos\Tablice\Tablice\obj\Debug\netcoreapp3.1\Tablice.genruntimeconfig.cache
